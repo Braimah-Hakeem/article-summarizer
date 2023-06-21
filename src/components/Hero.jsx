@@ -8,7 +8,7 @@ const Hero = () => {
                 className='w-28 object-contain'
             /> */}
             <div className='logo_text'>
-                Dev<span className='logo_splash'>26</span>x
+                Dev<span className='logo_splash'>26x</span>.
             </div>
             <button 
                 type='button'
