@@ -4,9 +4,6 @@ const Hero = () => {
     <header className='w-full flex justify-center items-center flex-col'>
         
         <nav className='flex justify-between items-center w-full mb-10 pt-3'>
-            {/* <img src={logo} alt='Dev26x logo'
-                className='w-28 object-contain'
-            /> */}
             <div className='logo_text'>
                 Dev<span className='logo_splash'>26x</span>.
             </div>
